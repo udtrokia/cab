@@ -1,0 +1,8 @@
+[package]
+name = "c_rust"
+version = "0.1.0"
+authors = ["mercury <udtrokia@gmail.com>"]
+
+[lib]
+name = "double_input"
+crate-type = ["staticlib"]
